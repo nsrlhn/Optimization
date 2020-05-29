@@ -1,2 +1,2 @@
 # Optimization
- Optimization problems and solving methods
+ problems and solving methods
